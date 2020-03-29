@@ -100,6 +100,33 @@
             }
         }
     }
+    //======================================================
+    //=================  ГЛАВНОЕ МЕНЮ  =====================
+    //======================================================
+    .box_menu_general{
+        .nav_general{
+            display: none;
+        }
+        .burger_menu_general{
+            display: flex;
+        }
+    }
+    //======================================================
+    //======================  FOOTER  ======================
+    //======================================================
+    .footer_general{
+        .box_name_footer{
+            .box_logo_footer{
+                font-size: 22px;
+                .img_logo_footer{
+                    height: 30px;
+                }
+            }
+            .txt_footer{
+                font-size: 18px;
+            }
+        }
+    }
  }
 
  @media screen and (max-width:480px){
@@ -130,6 +157,38 @@
                 grid-gap: 20px;
                 padding: 100px 0;
             }
+        }
+    }
+    //======================================================
+    //======================  FOOTER  ======================
+    //======================================================
+    .footer_general{
+        padding-top: 40px;
+        padding-bottom: 20px;
+        .box_name_footer{
+            .box_logo_footer{
+                font-size: 20px;
+            }
+            .txt_footer{
+                font-size: 14px;
+            }
+        }
+        .box_social_contact_footer{
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            .contact_footer{
+                margin-bottom: 15px;
+            }
+        }
+    }
+    //======================================================
+    //=====================  АЛФАВИТ  ======================
+    //======================================================
+    .box_dictionary_general{
+        a{
+            font-size: 16px;
         }
     }
  }
