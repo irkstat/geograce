@@ -20,8 +20,8 @@
         <a href="/dictionary/a/aberratsiya-astronomicheskaya.php">Аберрация астрономическая</a>
         <a href="/dictionary/a/abris.php">Абрис</a>
         <a href="/dictionary/a/additamenty.php">Аддитаменты</a>
-        <a href="#">Азимут астрономический (истинный)</a>
-        <a href="#">Азимут геодезический</a>
+        <a href="/dictionary/a/azimut-astronomicheskiy.php">Азимут астрономический (истинный)</a>
+        <a href="/dictionary/a/azimut-geodezicheskiy.php">Азимут геодезический</a>
         <a href="#">Азимут магнитный</a>
         <a href="#">Азимут прямого нормального сечения</a>
         <a href="#">Акселерометр</a>

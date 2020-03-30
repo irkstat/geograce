@@ -9,7 +9,7 @@
         <a href="/about_us.html">О Нас</a>
     </nav>
     <!--Логотип=====================================-->
-    <a class="box_logo_general" href="/index.php">
+    <a class="box_logo_general" href="/index.html">
         <img class="img_logo_general" src="/img/general/logo_geograce.svg" alt="Geograce">
         <p><span class="span_geo_general">Geo</span>grace</p>
     </a>
