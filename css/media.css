@@ -140,4 +140,15 @@
   .box_dictionary_general a {
     font-size: 16px;
   }
+
+  .description_general .h1_description_general {
+    font-size: 28px;
+  }
+  .description_general .txt_description_general {
+    font-size: 16px;
+    line-height: 1.4;
+  }
+  .description_general .formula_description {
+    font-size: 22px;
+  }
 }

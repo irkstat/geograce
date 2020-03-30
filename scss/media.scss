@@ -191,6 +191,21 @@
             font-size: 16px;
         }
     }
+    //======================================================
+    //====================  ОПРЕДЕЛЕНИЯ  ===================
+    //======================================================
+    .description_general{
+        .h1_description_general{
+            font-size: 28px;
+        }
+        .txt_description_general{
+            font-size: 16px;
+            line-height: 1.4;
+        }
+        .formula_description{
+            font-size: 22px;
+        }
+    }
  }
 
  @media screen and (max-width:320px){}

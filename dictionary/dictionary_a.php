@@ -17,9 +17,9 @@
     ?>
     <div class="box_dictionary_general">
         <p class="title_dictionary">А</p>
-        <a href="#">Аберрация астрономическая</a>
-        <a href="#">Абрис</a>
-        <a href="#">Аддитаменты</a>
+        <a href="/dictionary/a/aberratsiya-astronomicheskaya.php">Аберрация астрономическая</a>
+        <a href="/dictionary/a/abris.php">Абрис</a>
+        <a href="/dictionary/a/additamenty.php">Аддитаменты</a>
         <a href="#">Азимут астрономический (истинный)</a>
         <a href="#">Азимут геодезический</a>
         <a href="#">Азимут магнитный</a>

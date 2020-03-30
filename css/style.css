@@ -399,3 +399,41 @@
   height: 35px;
   margin-left: 15px;
 }
+
+.description_general {
+  max-width: 1200px;
+  padding: 0 20px;
+  margin: 0 auto;
+  padding-top: 70px;
+  min-height: calc(100vh - 220px);
+}
+.description_general .h1_description_general {
+  margin-bottom: 30px;
+  font-family: "Open Sans", sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
+  color: #383838;
+}
+.description_general .txt_description_general {
+  font-family: Arial, Helvetica, sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 1.5;
+  text-align: justify;
+}
+.description_general .formula_description {
+  font-size: 26px;
+}
+
+.figcaption_general {
+  font-family: "Open Sans", sans-serif;
+  font-style: italic;
+  color: #363636;
+  text-align: center;
+  margin: 10px 0;
+}
+
+.img_description_general {
+  display: block;
+  margin: 0 auto;
+}
