@@ -23,9 +23,8 @@
         <a href="/dictionary/a/azimut-astronomicheskiy.php">Азимут астрономический (истинный)</a>
         <a href="/dictionary/a/azimut-geodezicheskiy.php">Азимут геодезический</a>
         <a href="/dictionary/a/azimut-magnitnyy.php">Азимут магнитный</a>
-        <a href="#">Азимут прямого нормального сечения</a>
-        <a href="#">Акселерометр</a>
-        <a href="#">Алгоритм</a>
+        <a href="/dictionary/a/azimut-pryamogo-normalnogo-secheniya.php">Азимут прямого нормального сечения</a>
+        <a href="/dictionary/a/algoritm.php">Алгоритм</a>
         <a href="#">Альмукантарат</a>
         <a href="#">Анаглифов цветных метод</a>
         <a href="#">Анамалия силы тяжести</a>

@@ -8,7 +8,7 @@
         content="Аберрация  астрономическая -явление, состоящее в том, что на результаты измерения направлений на небесные светила оказывают влияние годичное движение Земли вокруг солнца">
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="/css/media.css">
-    <link rel="icon" href="/img/logo_geograce.svg">
+    <link rel="icon" href="/img/general/logo_geograce.svg">
     <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap" rel="stylesheet">
 
