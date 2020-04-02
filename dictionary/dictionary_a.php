@@ -25,8 +25,8 @@
         <a href="/dictionary/a/azimut-magnitnyy.php">Азимут магнитный</a>
         <a href="/dictionary/a/azimut-pryamogo-normalnogo-secheniya.php">Азимут прямого нормального сечения</a>
         <a href="/dictionary/a/algoritm.php">Алгоритм</a>
-        <a href="#">Альмукантарат</a>
-        <a href="#">Анаглифов цветных метод</a>
+        <a href="/dictionary/a/almukantarat.php">Альмукантарат</a>
+        <a href="/dictionary/a/anaglifov-tsvetnykh-metod.php">Анаглифов цветных метод</a>
         <a href="#">Анамалия силы тяжести</a>
         <a href="#">Апогей</a>
         <a href="#">Астрономические системы счета времени</a>
