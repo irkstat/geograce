@@ -31,10 +31,10 @@
         <a href="/dictionary/a/atlasy-geograficheskiye.php">Атласы географические</a>
         <a href="/dictionary/a/aeronivelirovaniye.php">Аэронивелирование</a>
         <a href="/dictionary/a/aerofotoapparat.php">Аэрофотоаппарат</a>
-        <a href="#">Аэрофотоснимок</a>
-        <a href="#">Аэрофотосъемка</a>
-        <a href="#">Аэрофототопографическая съемка</a>
-        <a href="#">Аэрофототопография</a>
+        <a href="/dictionary/a/aerofotosnimok.php">Аэрофотоснимок</a>
+        <a href="/dictionary/a/aerofotosyemka.php">Аэрофотосъемка</a>
+        <a href="/dictionary/a/aerofototopograficheskaya-syemka.php">Аэрофототопографическая съемка</a>
+        <a href="/dictionary/a/aerofototopografiya.php">Аэрофототопография</a>
     </div>
 
     <?php
