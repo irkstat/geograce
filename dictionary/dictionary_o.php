@@ -17,7 +17,7 @@
     ?>
     <div class="box_dictionary_general">
         <p class="title_dictionary">О</p>
-        <a href="/dictionary/o/">Обновление топографических карт</a>
+        <a href="/dictionary/o/obnovlenie-topograficheskikh-kart.php">Обновление топографических карт</a>
 
     </div>
 

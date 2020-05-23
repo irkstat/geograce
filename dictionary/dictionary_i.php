@@ -17,7 +17,11 @@
     ?>
     <div class="box_dictionary_general">
         <p class="title_dictionary">И</p>
-        <a href="/dictionary/i/">Издание карт</a>
+        <a href="/dictionary/i/izdaniye-kart.php">Издание карт</a>
+        <a href="/dictionary/i/izoanomaly.php">Изоаномалы</a>
+        <a href="/dictionary/i/izobary.php">Изобары</a>
+        <a href="/dictionary/i/izobaty.php">Изобаты</a>
+        <a href="/dictionary/i/izogony.php">Изогоны</a>
 
     </div>
 

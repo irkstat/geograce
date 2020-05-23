@@ -17,7 +17,10 @@
     ?>
     <div class="box_dictionary_general">
         <p class="title_dictionary">З</p>
-        <a href="/dictionary/z/">Заложение ската</a>
+        <a href="/dictionary/z/zalozheniye-skata.php">Заложение ската</a>
+        <a href="/dictionary/z/zasechka-proyektivnaya.php">Засечка проективная</a>
+        <a href="/dictionary/z/znak-geodezicheskiy.php">Знак геодезический</a>
+        <a href="/dictionary/z/znaki-nivelirnyye.php">Знаки нивелирные</a>
 
     </div>
 

@@ -17,7 +17,10 @@
     ?>
     <div class="box_dictionary_general">
         <p class="title_dictionary">Л</p>
-        <a href="/dictionary/l/">Лазерная локация Луны</a>
+        <a href="/dictionary/l/lazernaya-lokatsiya-luny.php">Лазерная локация Луны</a>
+        <a href="/dictionary/l/limb.php">Лимб</a>
+        <a href="/dictionary/l/logarifmicheskaya-linejka.php">Логарифмическая линейка</a>
+        <a href="/dictionary/l/lichnaya-raznost.php">Личная разность</a>
 
     </div>
 
