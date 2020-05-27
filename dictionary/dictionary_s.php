@@ -17,7 +17,10 @@
     ?>
     <div class="box_dictionary_general">
         <p class="title_dictionary">С</p>
-        <a href="/dictionary/s/">Сажень и верста</a>
+        <a href="/dictionary/s/sklonenie-magnitnoj-strelki.php">Склонение магнитной стрелки</a>
+        <a href="/dictionary/s/sklonenie-svetila.php">Склонение светила</a>
+        <a href="/dictionary/s/statoskop.php">Статоскоп</a>
+        <a href="/dictionary/s/stereograf.php">Стереограф</a>
 
     </div>
 

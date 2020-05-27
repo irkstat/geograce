@@ -17,7 +17,7 @@
     ?>
     <div class="box_dictionary_general">
         <p class="title_dictionary">Я</p>
-        <a href="/dictionary/ya/">Ярд</a>
+        <a href="/dictionary/ya/yard.php">Ярд</a>
 
     </div>
 

@@ -17,8 +17,8 @@
     ?>
     <div class="box_dictionary_general">
         <p class="title_dictionary">Ц</p>
-        <a href="/dictionary/c/">Центр геодезического пункта</a>
-
+        <a href="/dictionary/c/cirkul-proporcionalnyj.php">Циркуль пропорциональный</a>
+        <a href="/dictionary/c/cifrovaya-model-mestnosti.php">Цифровая модель местности</a>
     </div>
 
     <?php

@@ -17,8 +17,7 @@
     ?>
     <div class="box_dictionary_general">
         <p class="title_dictionary">У</p>
-        <a href="/dictionary/u/">Угломерный круг</a>
-
+        <a href="/dictionary/u/uslovnye-znaki-kart.php">Условные знаки карт</a>
     </div>
 
     <?php

@@ -17,7 +17,7 @@
     ?>
     <div class="box_dictionary_general">
         <p class="title_dictionary">Х</p>
-        <a href="/dictionary/h/">Характеристики объектов местности</a>
+        <a href="/dictionary/h/khronograf.php">Хронограф</a>
 
     </div>
 

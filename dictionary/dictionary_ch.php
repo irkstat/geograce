@@ -17,7 +17,8 @@
     ?>
     <div class="box_dictionary_general">
         <p class="title_dictionary">Ч</p>
-        <a href="/dictionary/ch/">Часовая мера углов</a>
+        <a href="/dictionary/ch/chasovoj-ugol.php">Часовой угол</a>
+        <a href="/dictionary/ch/chebysheva-proekciya.php">Чебышева проекция</a>
 
     </div>
 

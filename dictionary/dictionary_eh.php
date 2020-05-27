@@ -17,7 +17,8 @@
     ?>
     <div class="box_dictionary_general">
         <p class="title_dictionary">Э</p>
-        <a href="/dictionary/ye/">Экватор</a>
+        <a href="/dictionary/eh/ehkvator.php">Экватор</a>
+        <a href="/dictionary/eh/ehllips-iskazhenij.php">Эллипс искажений</a>
 
     </div>
 
